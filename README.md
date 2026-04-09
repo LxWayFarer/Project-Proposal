@@ -1,6 +1,11 @@
 # [專題名稱]
 
 ## Proposal Report
+- 題目名稱、動機與目標
+  Testing
+- 預期功能
+- 使用的技術 / 語言
+- 初步時程規劃
 ## Prototype Report
 
 ### 目前進度
